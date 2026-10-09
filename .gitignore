@@ -1,0 +1,9 @@
+# File sampah OS Windows & Mac
+.DS_Store
+Thumbs.db
+
+# Folder konfigurasi lokal VS Code
+.vscode/
+
+# File log/error jika ada
+*.log

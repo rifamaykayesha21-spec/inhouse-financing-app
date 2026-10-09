@@ -1,0 +1,92 @@
+* { 
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+body { 
+    background-color: #f4f7f6; 
+    color: #333; 
+    padding: 20px; 
+}
+.container { 
+    max-width: 1000px; 
+    margin: 0 auto; 
+}
+header { 
+    margin-bottom: 20px; 
+}
+header h1 { 
+    color: #1a365d; 
+}
+.card { 
+    background: #ffffff; 
+    padding: 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+    margin-bottom: 20px; 
+}
+.card h2 { 
+    font-size: 1.2rem; 
+    margin-bottom: 15px; 
+    color: #2b6cb0; 
+}
+.form-group { 
+    margin-bottom: 12px; 
+}
+.form-group label { 
+    display: block; 
+    margin-bottom: 5px; 
+    font-weight: 600; 
+}
+.form-group input { 
+    width: 100%; 
+    padding: 8px 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+}
+button { 
+    background-color: #2b6cb0; 
+    color: white; 
+    border: none; 
+    padding: 10px 16px; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    font-weight: bold; 
+}
+button:hover { 
+    background-color: #2c5282; 
+}
+.table-responsive { 
+    overflow-x: auto; 
+}
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 10px; 
+}
+table th, table td { 
+    padding: 10px; 
+    border: 1px solid #e2e8f0; 
+    text-align: left; 
+}
+table th { 
+    background-color: #edf2f7; 
+}
+.badge { 
+    padding: 3px 8px; 
+    border-radius: 4px; 
+    font-size: 0.85rem; 
+    font-weight: bold; 
+}
+.badge-lunas { 
+    background-color: #c6f6d5; 
+    color: #22543d; 
+}
+.badge-belum { 
+    background-color: #fed7d7; 
+    color: #742a2a; 
+}
+.text-center { 
+    text-align: center; 
+}
