@@ -1,6 +1,7 @@
 # 🏢 Sistem Akuntansi Piutang Properti (In-House Financing)
 
 UTS Mata Kuliah Pengkodean dan Pemrograman - S1 Akuntansi
+
 Aplikasi berbasis web sederhana untuk mengelola dan mencatat transaksi piutang penjualan rumah dengan skema pembayaran *in-house financing* (angsuran langsung ke pengembang/developer).
 
 ---
